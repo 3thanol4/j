@@ -1,6 +1,6 @@
 /* Styles globaux */
 body {
-    background-image: url(images/lll.jpg);
+    background-image: url(image/lll.jpg);
     background-size: cover;
     position: relative;
     z-index: 0;
@@ -310,7 +310,7 @@ a {
     }
     #ny{
         text-align: center;
-        background-image: url(images/Drapeau-Etats-Unis_240-gif.gif);
+        background-image: url(image/Drapeau-Etats-Unis_240-gif.gif);
         background-repeat: no-repeat;
         background-position: center;
         color: transparent;
@@ -318,7 +318,7 @@ a {
     }
     #paris{
         text-align: center;
-        background-image:url(images/Drapeau-France_240-gif.gif);
+        background-image:url(image/Drapeau-France_240-gif.gif);
         background-repeat: no-repeat;
         background-clip: text;
         color: transparent;
@@ -326,7 +326,7 @@ a {
     }
     #kigali{
         text-align: center;
-        background-image:url(images/Drapeau-Rwanda_240-gif.gif);
+        background-image:url(image/Drapeau-Rwanda_240-gif.gif);
         background-repeat: no-repeat;
         background-clip: text;
         color: transparent;
@@ -334,7 +334,7 @@ a {
     }
     #rio{
         text-align: center;
-        background-image:url(images/Drapeau-Bresil_240-gif.gif);
+        background-image:url(image/Drapeau-Bresil_240-gif.gif);
         background-repeat: no-repeat;
         background-clip: text;
         color: transparent;
@@ -342,7 +342,7 @@ a {
     }
     #tokyo{
         text-align: center;
-        background-image:url(images/Drapeau-Japon_240-gif.gif);
+        background-image:url(image/Drapeau-Japon_240-gif.gif);
         background-repeat: no-repeat;
         background-clip: text;
         color: transparent;
